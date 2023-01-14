@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lanqiao/wordAnalyze/Main.java" afterDir="false" />
+    <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="新增--蓝桥题：单词分析--Java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +72,16 @@
       <option name="presentableId" value="Default" />
       <updated>1673668537088</updated>
       <workItem from="1673702989214" duration="8000" />
-      <workItem from="1673703017605" duration="1334000" />
+      <workItem from="1673703017605" duration="2346000" />
     </task>
+    <task id="LOCAL-00001" summary="新增--蓝桥题：单词分析--Java">
+      <created>1673704995866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673704995866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增--蓝桥题：单词分析--Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增--蓝桥题：单词分析--Java" />
   </component>
 </project>
