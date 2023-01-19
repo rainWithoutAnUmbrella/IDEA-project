@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/removeDuplicates/removeDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/twoSum/README" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/twoSum/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673668537088</updated>
       <workItem from="1673709463087" duration="13000" />
-      <workItem from="1674100905213" duration="4488000" />
+      <workItem from="1674100905213" duration="5517000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674146933567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated for leetcode-ShuZu-toSum solution">
+      <created>1674147646152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674147646152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
