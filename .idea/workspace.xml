@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/searchInsert/35.搜索插入位置（数组，二分查找）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/searchInsert/searchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/plusOne/66.加一（数组）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/plusOne/plusOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrayutil/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrayutil/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "JAVA"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="应用程序.searchInsert">
+}</component>
+  <component name="RunManager" selected="应用程序.plusOne">
+    <configuration name="plusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Array.plusOne.plusOne" />
+      <module name="Git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Array.plusOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Array.removeDuplicates.removeDuplicates" />
       <module name="Git" />
@@ -89,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Array.twoSum.twoSum" />
-      <module name="Git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Array.twoSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.plusOne" />
         <item itemvalue="应用程序.searchInsert" />
         <item itemvalue="应用程序.removeElement" />
         <item itemvalue="Java 草稿.Main" />
         <item itemvalue="应用程序.removeDuplicates" />
-        <item itemvalue="应用程序.twoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +133,8 @@
       <workItem from="1674100905213" duration="8187000" />
       <workItem from="1674184073304" duration="2735000" />
       <workItem from="1674197098984" duration="7463000" />
-      <workItem from="1674207339864" duration="4228000" />
+      <workItem from="1674207339864" duration="4607000" />
+      <workItem from="1674229667825" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -175,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674222249560</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated for leetcode-ShuZu-searchInsert-二分查找">
+      <created>1674225566175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674225566175</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +199,8 @@
     <MESSAGE value="updated for leetcode-ShuZu-removeDuplicates solution" />
     <MESSAGE value="updated for leetcode-ShuZu-removeDuplicates all solution" />
     <MESSAGE value="updated for leetcode-ShuZu-removeElementOfVal all solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-removeElementOfVal all solution" />
+    <MESSAGE value="updated for leetcode-ShuZu-searchInsert-二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-searchInsert-二分查找" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

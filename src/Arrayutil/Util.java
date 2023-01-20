@@ -8,5 +8,6 @@ public class Util {
             sb.append(" ").append(num);
         }
         sb.append(" ]");
+        System.out.println(sb);
     }
 }
