@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="updated for leetcode-ShuZu-removeDuplicates solution">
-      <change afterPath="$PROJECT_DIR$/src/Arrayutil/Util.java" afterDir="false" />
+    <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Leetcode/Array/removeDuplicates/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Array/removeDuplicates/removeDuplicates.java" afterDir="false" />
     </list>
@@ -23,6 +22,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KIiXLWt25Yyl5CJirvuJeL7Wkz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -83,7 +85,7 @@
       <workItem from="1673709463087" duration="13000" />
       <workItem from="1674100905213" duration="8187000" />
       <workItem from="1674184073304" duration="2735000" />
-      <workItem from="1674197098984" duration="974000" />
+      <workItem from="1674197098984" duration="1630000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -106,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674148807609</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated for leetcode-ShuZu-removeDuplicates all solution">
+      <created>1674198324167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674198324168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated for leetcode-ShuZu-toSum solution" />
     <MESSAGE value="updated for leetcode-ShuZu-removeDuplicates solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-removeDuplicates solution" />
+    <MESSAGE value="updated for leetcode-ShuZu-removeDuplicates all solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-removeDuplicates all solution" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

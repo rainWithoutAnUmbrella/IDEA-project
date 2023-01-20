@@ -74,7 +74,7 @@ class Solution2 { //使用双指针的解法，原地修改数组 时间复杂�
         }
         while (right < len - 1) { //如果数组只有两个元素，那么不会执行这语句，因为此时 right = 1 while条件内的（1不可能小于1） 及所给数组长度3或以上才能用本算法
             if (nums[left] == nums[right]) { //如遇到相等元素，right指针继续向前走
-                right++;
+                right++; //前面使用right < len - 1 是为了防止right++后 抛出数组越界异常
             }
             if (nums[left] != nums[right]) { //如果元素不相等，先让left++，然后把当前right指向的元素赋给nums对应left++后的位置
                 left++;
@@ -108,6 +108,26 @@ public class removeDuplicates {
         System.out.println("空数组测试");
         for (int j = 0; j < i2; j++) {
             System.out.print(" " + returnNum[j]);
+        }
+        System.out.println("=========================");
+        Solution2 solution2 = new Solution2();
+        int a1 = solution2.removeDuplicates(returnNum);
+        System.out.println("=========================");
+        System.out.println("数组returnNum中的元素：");
+        for (int k = 0; k < a1; k++) {
+            System.out.print(" " + returnNum[k]);
+        }
+        int a2 = solution.removeDuplicates(returnNum2);
+        System.out.println("=========================");
+        System.out.println("数组returnNum2中的元素：");
+        for (int k = 0; k < a2; k++) {
+            System.out.print(" " + returnNum2[k]);
+        }
+        int a3 = solution.removeDuplicates(nullptr);
+        System.out.println("=========================");
+        System.out.println("空数组测试");
+        for (int k = 0; k < a3; k++) {
+            System.out.print(" " + returnNum[k]);
         }
     }
 }
