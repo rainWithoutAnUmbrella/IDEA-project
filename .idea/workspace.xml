@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/majorityElement/169.多数元素（数组，哈希表，计数，排序）.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/majorityElement/majorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/containsDuplicate/217.存在重复元素（哈希表，排序）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Array/containsDuplicate/containsDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,20 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.majorityElement">
+  <component name="RunManager" selected="应用程序.containsDuplicate">
+    <configuration name="containsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Array.containsDuplicate.containsDuplicate" />
+      <module name="Git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Array.containsDuplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="majorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Array.majorityElement.majorityElement" />
       <module name="Git" />
@@ -89,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Array.removeElementOfVal.removeElement" />
-      <module name="Git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Array.removeElementOfVal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Array.searchInsert.searchInsert" />
       <module name="Git" />
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.containsDuplicate" />
         <item itemvalue="应用程序.majorityElement" />
         <item itemvalue="应用程序.mergeTwoSortNums" />
         <item itemvalue="应用程序.plusOne" />
         <item itemvalue="应用程序.searchInsert" />
-        <item itemvalue="应用程序.removeElement" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <workItem from="1674197098984" duration="7463000" />
       <workItem from="1674207339864" duration="4607000" />
       <workItem from="1674229667825" duration="2661000" />
-      <workItem from="1674293930174" duration="4035000" />
+      <workItem from="1674293930174" duration="5597000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674354558543</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated for leetcode-ShuZu-majorityElement">
+      <created>1674357416442</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674357416442</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +228,8 @@
     <MESSAGE value="updated for leetcode-ShuZu-searchInsert-二分查找" />
     <MESSAGE value="updated for leetcode-ShuZu-plusOne-Solution" />
     <MESSAGE value="updated for leetcode-ShuZu-mergeTwoSortNums" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-mergeTwoSortNums" />
+    <MESSAGE value="updated for leetcode-ShuZu-majorityElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated for leetcode-ShuZu-majorityElement" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
