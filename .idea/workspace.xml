@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/一次编辑/oneEditAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/字符串压缩/compressString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/回文排列/canPermutePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/回文排列/canPermutePalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/MR.Wang/IdeaProjects/Git&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
@@ -54,7 +55,7 @@
       <recent name="程序员面试金典_第六版.面试题01.URL化" />
     </key>
   </component>
-  <component name="RunManager" selected="Java 草稿.A">
+  <component name="RunManager" selected="应用程序.oneEditAway">
     <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="程序员面试金典_第六版.面试题01.判断是否互为字符重排.CheckPermutation" />
       <module name="Git" />
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findDisappearedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Array.findDisappearedNumbers.findDisappearedNumbers" />
+    <configuration name="isUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员面试金典_第六版.面试题01.判断字符是否唯一.isUnique" />
       <module name="Git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode.Array.findDisappearedNumbers.*" />
+          <option name="PATTERN" value="程序员面试金典_第六版.面试题01.判断字符是否唯一.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="程序员面试金典_第六版.面试题01.判断字符是否唯一.isUnique" />
+    <configuration name="oneEditAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员面试金典_第六版.面试题01.一次编辑.oneEditAway" />
       <module name="Git" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="程序员面试金典_第六版.面试题01.判断字符是否唯一.*" />
+          <option name="PATTERN" value="程序员面试金典_第六版.面试题01.一次编辑.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.oneEditAway" />
         <item itemvalue="Java 草稿.A" />
         <item itemvalue="应用程序.CheckPermutation" />
         <item itemvalue="应用程序.isUnique" />
         <item itemvalue="Java 草稿.te" />
-        <item itemvalue="应用程序.findDisappearedNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +145,10 @@
       <workItem from="1674829196203" duration="1374000" />
       <workItem from="1674894922937" duration="41000" />
       <workItem from="1674918290398" duration="1545000" />
+      <workItem from="1674964540767" duration="2101000" />
+      <workItem from="1674975341906" duration="53000" />
+      <workItem from="1674975404442" duration="2907000" />
+      <workItem from="1674990627341" duration="1899000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -264,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674918341517</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="提交了好多...">
+      <created>1674964555011</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674964555011</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
