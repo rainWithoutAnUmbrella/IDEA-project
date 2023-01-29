@@ -35,6 +35,9 @@ class Solution { //使用StringBuilder 根据要求append字符串
 
 public class replaceSpaces {
     public static void main(String[] args) {
-
+        Solution solution = new Solution();
+        String str = "Mr John Smith    ";
+        String ans = solution.replaceSpaces(str, 16);
+        System.out.println(ans);
     }
 }

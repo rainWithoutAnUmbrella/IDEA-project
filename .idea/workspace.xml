@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6622e4f4-c7f1-417e-a26d-1ee2030fa591" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/URL化/replaceSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/回文排列/canPermutePalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/回文排列/canPermutePalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/程序员面试金典_第六版/面试题01/回文排列/canPermutePalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MR.Wang/IdeaProjects/Git&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -54,7 +54,7 @@
       <recent name="程序员面试金典_第六版.面试题01.URL化" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CheckPermutation">
+  <component name="RunManager" selected="Java 草稿.A">
     <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="程序员面试金典_第六版.面试题01.判断是否互为字符重排.CheckPermutation" />
       <module name="Git" />
@@ -94,15 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.String.longestCommonPrefix.longestCommonPrefix" />
-      <module name="Git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.String.longestCommonPrefix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="A" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java 草稿.A" />
         <item itemvalue="应用程序.CheckPermutation" />
         <item itemvalue="应用程序.isUnique" />
         <item itemvalue="Java 草稿.te" />
         <item itemvalue="应用程序.findDisappearedNumbers" />
-        <item itemvalue="应用程序.longestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +143,7 @@
       <workItem from="1674783305076" duration="5836000" />
       <workItem from="1674829196203" duration="1374000" />
       <workItem from="1674894922937" duration="41000" />
+      <workItem from="1674918290398" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="updated for leetcode-ShuZu-toSum solution">
       <created>1674146933567</created>
@@ -262,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674786628020</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="提交了好多...">
+      <created>1674918341517</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674918341517</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

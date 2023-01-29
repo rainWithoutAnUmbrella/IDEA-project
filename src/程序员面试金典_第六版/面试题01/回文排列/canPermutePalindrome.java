@@ -33,6 +33,21 @@ class Solution { //回文的特点是字符串从两侧都是成对出现，直�
     }
 }
 
+class Solution2 {
+    public boolean canPermutePalindrome(String s) { //对字符元素出现的次数进行判断，如果出现次数大于1次，也就是说待判定的字符串中有两个字符是单独的，即待判定字符串及其重组非回文
+        int[] ASCII_HASH = new int[128]; //创建能存储ASCII码的数组
+        char[] str = s.toCharArray(); //转换成字符数组
+        for (char c : str) { //Java会将char自动转换成int
+            ASCII_HASH[c]++; //记录每个字符元素出现的次数
+        }
+        int count = 0;
+        for (int ascii_hash : ASCII_HASH) {
+            count += (ascii_hash & 1);
+        }
+        return count <= 1;
+    }
+}
+
 public class canPermutePalindrome {
     public static void main(String[] args) {
 
